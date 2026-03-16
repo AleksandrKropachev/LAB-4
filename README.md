@@ -15,7 +15,8 @@
 
 ### Тестирование
 
-![Uploading Снимок экрана 2026-03-17 003246.png…]()
+<img width="551" height="372" alt="Снимок экрана 2026-03-17 003246" src="https://github.com/user-attachments/assets/d8811995-07be-4c1b-860f-40bb31c601ab" />
+
 
 ## Задача 2
 
@@ -29,7 +30,7 @@
 
 ### Тестирование
 
-![Uploading Снимок экрана 2026-03-17 003317.png…]()
+<img width="537" height="246" alt="Снимок экрана 2026-03-17 003317" src="https://github.com/user-attachments/assets/4871eefc-45ff-4d2a-9f9a-dd1b8abc6d32" />
 
 
 
