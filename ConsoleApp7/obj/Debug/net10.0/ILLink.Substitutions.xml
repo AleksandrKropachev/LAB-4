@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ConsoleApp7">
+    <resource name="FSharpSignatureData.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ConsoleApp7" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ConsoleApp7" action="remove"></resource>
+  </assembly>
+</linker>

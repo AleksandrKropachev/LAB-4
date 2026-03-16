@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KAY2N+FMvs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Александр\\source\\repos\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\fsharp.core\\10.0.103\\fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}
